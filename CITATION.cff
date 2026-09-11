@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use materials from this project, please cite the Institute for Frontier AI Safety and the specific released output."
+title: "Agentic AI in Resource-Constrained Environments"
+type: software
+authors:
+  - family-names: Abako
+    given-names: Gideon
+    affiliation: Institute for Frontier AI Safety
+repository-code: "https://github.com/Institute-for-Frontier-AI-Safety/agentic-ai-resource-constraints"
+url: "https://ifasresearch.org/projects/agentic-ai-resource-constraints/"
+license: MIT
