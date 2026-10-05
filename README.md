@@ -4,7 +4,8 @@
 
 This repository contains research materials for an IFAS study on how operational resource constraints affect the behaviour and safety of LLM-based agentic AI systems.
 
-**Project page:** https://ifasresearch.org/projects/agentic-ai-resource-constraints/
+**Project page:** https://ifasresearch.org/projects/agentic-ai-resource-constraints/  
+**Repository:** https://github.com/Institute-for-Frontier-AI-Safety-IFAS/agentic-ai-resource-constraints
 
 **Status:** Active research design
 
@@ -74,3 +75,11 @@ The **tau-bench family** remains a possible later replication/generalisation env
 - [ ] Prepare public outputs
 
 There are currently no experimental results.
+
+## Repository history
+
+The original GitHub repository became unavailable in September 2026. This repository restores its content from preserved IFAS records. See [RECOVERY_NOTE.md](RECOVERY_NOTE.md).
+
+## Licence
+
+MIT. See [LICENSE](LICENSE). Cite this work as described in [CITATION.cff](CITATION.cff).

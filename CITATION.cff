@@ -6,6 +6,6 @@ authors:
   - family-names: Abako
     given-names: Gideon
     affiliation: Institute for Frontier AI Safety
-repository-code: "https://github.com/Institute-for-Frontier-AI-Safety/agentic-ai-resource-constraints"
+repository-code: "https://github.com/Institute-for-Frontier-AI-Safety-IFAS/agentic-ai-resource-constraints"
 url: "https://ifasresearch.org/projects/agentic-ai-resource-constraints/"
 license: MIT

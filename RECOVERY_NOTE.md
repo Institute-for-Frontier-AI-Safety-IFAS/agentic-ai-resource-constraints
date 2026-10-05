@@ -16,3 +16,12 @@ Recovered design state:
 - Next decision: ToolSandbox task subset, exact treatment levels, model/agent configurations, repeat count, cost, and final measures
 
 No experimental results are claimed in this reconstruction.
+
+## Republication (2026-10-05)
+
+The reconstructed content was republished at https://github.com/Institute-for-Frontier-AI-Safety-IFAS/agentic-ai-resource-constraints under a new IFAS GitHub organisation with more than one owner.
+
+The first commit in this repository holds the 2026-09-11 reconstruction unchanged. `SHA256SUMS.txt` lists the checksums of that snapshot. Files changed in later commits no longer match those checksums; the Git history records each change.
+
+The original GitHub issues were recreated from `docs/issue-backlog.md`. Their numbers match the backlog, but the original comments and metadata are not restored.
+
