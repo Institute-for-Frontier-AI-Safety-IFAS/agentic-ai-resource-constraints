@@ -62,13 +62,13 @@ The **tau-bench family** remains a possible later replication/generalisation env
 - [x] Complete focused literature review for pilot design
 - [x] Record literature-driven scope refinement
 - [x] Select ToolSandbox as the Pilot 1 task environment
-- [ ] Select ToolSandbox task subset
+- [ ] Select ToolSandbox task subset (proposed 2026-10-05; see `research/toolsandbox-task-selection-2026-10.md`)
 - [ ] Fix final Pilot 1 constraints and exact treatment levels
 - [ ] Select initial model and agent configurations
 - [ ] Estimate repeat count and pilot API/compute cost
 - [ ] Freeze pilot task design and measures
 - [ ] Update and freeze Protocol v0.2
-- [ ] Implement evaluation harness
+- [ ] Implement evaluation harness (injection hooks prototyped; see `src/prototypes/`)
 - [ ] Run apparatus-validation pilot
 - [ ] Run main evaluation
 - [ ] Analyse results

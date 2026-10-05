@@ -11,6 +11,10 @@ Planned components:
 - basic scorer
 - run-manifest export
 
+Prototypes:
+
+- `prototypes/hook_smoke_test.py`: offline check of the C1 failure-injection and C2 history-redaction hooks with a scripted agent and user. Apparatus only; not study evidence.
+
 Requirements:
 
 - same task can run under baseline and constrained conditions

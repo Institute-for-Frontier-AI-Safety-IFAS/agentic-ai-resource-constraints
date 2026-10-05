@@ -12,7 +12,7 @@ Completed:
 - [x] Select task environment: ToolSandbox
 
 Remaining:
-- [ ] Select ToolSandbox task subset
+- [ ] Select ToolSandbox task subset (six tasks proposed 2026-10-05, awaiting PI confirmation; see `research/toolsandbox-task-selection-2026-10.md`)
 - [ ] Select final 2–3 resource constraints
 - [ ] Define baseline condition
 - [ ] Define exact treatment levels
